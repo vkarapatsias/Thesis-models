@@ -1,4 +1,4 @@
-# Similarity based Multiple Kernel estimation of rice agronomic traits,using multispectral imagery.
+# Similarity based Multiple Kernel estimation of rice agronomic traits, using multispectral imagery.
 
 ## Abstract
 <p align="justify">
