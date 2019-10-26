@@ -58,5 +58,5 @@ individual readme files in each specific forlder) in order to predict the output
 ### Model B:
 
 <p align="center">
-<img src= "https://github.com/bkara14/Thesis-models/blob/master/modelB.png" height="300">
+<img src= "https://github.com/bkara14/Thesis-models/blob/master/modelB.png">
 </p>
