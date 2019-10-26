@@ -1,5 +1,4 @@
-# Thesis-models
-Contains the scripts and their results of my master thesis.
+# Similarity based Multiple Kernel estimation of rice agronomic traits,using multispectral imagery.
 
 ## Abstract
 <p align="justify">
@@ -48,7 +47,7 @@ individual readme files in each specific forlder) in order to predict the output
   
 - - - -
   
-#### Model A:
+### Model A:
 
 <p align="center">
 <img src= "https://github.com/bkara14/Thesis-models/blob/master/modelA.png">
@@ -56,7 +55,7 @@ individual readme files in each specific forlder) in order to predict the output
 
 - - - -
 
-#### Model B:
+### Model B:
 
 <p align="center">
 <img src= "https://github.com/bkara14/Thesis-models/blob/master/modelB.png" height="300">
